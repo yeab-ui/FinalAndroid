@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CounterHomeWork</string>
+    <string name="count_button">COUNT</string>
+    <string name="edit_text_field">Edit_text</string>
+    <string name="title_my_activity" />
+    <string name="_0">0</string>
+    <string name="count_up_btn">COUNT UP</string>
+    <string name="username_edttxt">Username</string>
+</resources>

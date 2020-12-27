@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f4d0851-a1e6-493d-9aac-e4207445a731" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/androidTest/java/com/example/assignmentone/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/java/com/example/assignmentone/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/java/com/example/assignmentone/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/app/src/test/java/com/example/assignmentone/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/.idea/dictionaries/mengesha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/androidTest/java/com/example/bbmainactivity/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/java/com/example/bbmainactivity/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/app/src/test/java/com/example/bbmainactivity/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBmainActivity/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mCw74VdskhYBCnc8YU8lRKZLyj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f4d0851-a1e6-493d-9aac-e4207445a731" name="Default Changelist" comment="" />
+      <created>1609010709217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609010709217</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Android Assignment 1">
+      <created>1609053550704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609053550720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Android Assignment 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Android Assignment 1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="139" key="AndroidCreateResourceDirectoryDialog" timestamp="1609012445669">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="263" y="139" key="AndroidCreateResourceDirectoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1609012445669" />
+    <state x="542" y="232" key="AndroidCreateXmlResourceDialog" timestamp="1609012431600">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="542" y="232" key="AndroidCreateXmlResourceDialog/0.0.1366.768@0.0.1366.768" timestamp="1609012431600" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1609053546129">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1609053546129" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1609012821894">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1609012821894" />
+    <state x="439" y="250" key="Github.CreatePullRequestDialog" timestamp="1609054878976">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="439" y="250" key="Github.CreatePullRequestDialog/0.0.1366.768@0.0.1366.768" timestamp="1609054878976" />
+    <state x="540" y="277" width="286" height="293" key="Github.ShareDialog" timestamp="1609053834675">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="540" y="277" width="286" height="293" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1609053834675" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1609014328022">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1609014328022" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1609053711196">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1609053711196" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1609053219972">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1609053219972" />
+  </component>
+</project>

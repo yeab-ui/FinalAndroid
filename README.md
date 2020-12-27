@@ -1,5 +1,4 @@
 # FinalAndroid
-yeabkalandbetemaryam
 
 
 BBMain Actitivty Folder is Assignment 2

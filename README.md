@@ -4,7 +4,7 @@ yeabkalandbetemaryam
 
 BBMain Actitivty Folder is Assignment 2
 
-Name                                    ID
+
 Yeabkal Endale ……………….. DBUR/1346/10
 
 

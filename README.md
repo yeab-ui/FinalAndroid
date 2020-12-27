@@ -2,7 +2,7 @@
 yeabkalandbetemaryam
 
 
-BBMain Actitivty Folder is Assignent 2
+BBMain Actitivty Folder is Assignment 2
 
 Name                                    ID
 Yeabkal Endale ……………….. DBUR/1346/10
